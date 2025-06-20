@@ -1,0 +1,3 @@
+git add .
+git commit -m "Add required layout.tsx for Next.js App Router"
+git push
